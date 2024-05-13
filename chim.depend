@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1715584403 source:d:\game chim\chim\tét.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<iostream>
+	<sstream>
+	<string>
+	<cstdlib>
+	<ctime>
+
